@@ -1,0 +1,38 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-01-07T20:14:33.648Z",
+        "line": 5,
+        "name": "TO Validate successful login to the application",
+        "description": "",
+        "id": "log-in-to-the-application;to-validate-successful-login-to-the-application",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "User tries to login to the application",
+            "match": {},
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Testing"
+          }
+        ]
+      }
+    ],
+    "name": "Log in to the application",
+    "description": "",
+    "id": "log-in-to-the-application",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Login.feature",
+    "tags": []
+  }
+]
